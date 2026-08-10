@@ -17,7 +17,7 @@ Không cần cài đặt, anh/chị có thể xem ngay kết quả hoặc tự t
 * **Live Web App:** https://b2b-order-assistant.streamlit.app/ | **Tài khoản test:** `admin` - **Pass:** `123`
 * **Live Database & Sheet:** [https://docs.google.com/spreadsheets/d/1jSW3RiwM7GPKpwVG1C_AErR3EY6RXXFaOPJzP9QH9fQ/edit?usp=sharing] *(<-- Test chốt đơn trên Web, dữ liệu sẽ tự động nhảy vào đây)*
 
-## ⚙️ Công Nghệ Sử Dụng (Tech Stack)
+## Công Nghệ Sử Dụng (Tech Stack)
 * **Frontend:** `Streamlit (Python)` - Giao diện nhập liệu nhanh.
 * **AI Parser:** `Gemini 2.5 Flash API` - Tối ưu Prompt để chuyển văn bản thô thành dạng bảng.
 * **Database:** `Supabase (PostgreSQL)` - Quản lý tài khoản bảo mật và danh bạ khách hàng.
