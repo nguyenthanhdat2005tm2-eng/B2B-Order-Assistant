@@ -13,9 +13,9 @@ Sales phải gõ lại từng đơn vào Sheets chung. Nếu nhiều đơn và m
 
 ## Trải Nghiệm Nhanh
 Không cần cài đặt, anh/chị có thể xem ngay kết quả hoặc tự test hệ thống tại đây:
-* **Video Demo (2 phút):** https://drive.google.com/file/d/1TFY7BGeIMtqXpL3h6JPOJ1P0URV8PZkE/view?usp=drive_link
-* **Live Web App:** https://b2b-order-assistant.streamlit.app/ | **Tài khoản test:** `admin` - **Pass:** `123`
-* **Live Google Sheet:** [https://docs.google.com/spreadsheets/d/1jSW3RiwM7GPKpwVG1C_AErR3EY6RXXFaOPJzP9QH9fQ/edit?usp=sharing] *( Test chốt đơn trên Web, dữ liệu sẽ tự động nhảy vào đây)*
+* **Video Demo (2 phút):** [https://drive.google.com/file/d/1TFY7BGeIMtqXpL3h6JPOJ1P0URV8PZkE/view?usp=drive_link]
+* **Live Web App:** [https://b2b-order-assistant.streamlit.app/] | **Tài khoản test:** `admin` - **Pass:** `123`
+* **Live Google Sheet:** [https://docs.google.com/spreadsheets/d/1jSW3RiwM7GPKpwVG1C_AErR3EY6RXXFaOPJzP9QH9fQ/edit?usp=sharing] * (Test chốt đơn trên Web, dữ liệu sẽ tự động nhảy vào đây)*
 
 ## Công Nghệ Sử Dụng (Tech Stack)
 * **Frontend:** `Streamlit (Python)` - Giao diện nhập liệu nhanh.
